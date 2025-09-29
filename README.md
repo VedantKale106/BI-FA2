@@ -162,8 +162,7 @@ jupyter notebook EDA.ipynb
 ### Visualizations Generated
 1. **Distribution Charts:** Rating and sentiment distribution 
 2. **Word Clouds:** Negative review keywords visualization
-3. **Correlation Analysis:** Review length vs sentiment patterns
-4. **Product Performance:** Top products analysis 
+3. **Product Performance:** Top products analysis 
 
 ### Business Impact
 - **Search Improvement:** 78% positive reviews provide strong quality signals 
@@ -202,4 +201,3 @@ We welcome contributions! Please follow these steps:
 ---
 
 ⭐ **Star this repository if you found it helpful!** ⭐
-```
