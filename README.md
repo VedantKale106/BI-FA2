@@ -149,12 +149,11 @@ pip install pandas numpy matplotlib seaborn wordcloud scikit-learn
 
 3. **Download the dataset:**
 ```
-# Download Amazon Fine Food Reviews from Kaggle# Place 'Reviews.csv' in the project directory```
+# Download Amazon Fine Food Reviews from Kaggle# Place 'Reviews.csv' in the project directory 
 
 ## 💻 Usage
 
 ### Run the Analysis
-```
 jupyter notebook EDA.ipynb
 ```
 
