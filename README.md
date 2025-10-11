@@ -31,7 +31,7 @@ This project focuses on sentiment analysis of Amazon customer reviews to help e-
 |----------|------|-------------|
 | 122B1B122 | Aaditesh Kadu | Data Analysis & Visualization |
 | 122B1B124 | Vedant Kale | Sentiment Classification & EDA |
-| 122B1B139 | Prajwal Khobragade | Business Intelligence Insights |
+| 122B1B138 | Prajwal Khobragade | Business Intelligence Insights |
 
 **Under Guidance of:** Pooja Bidwai Madam 
 
